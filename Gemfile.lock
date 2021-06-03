@@ -272,6 +272,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-commonmark-ghpages
   jekyll-feed (~> 0.12)
   just-the-docs
   minima (~> 2.5)
