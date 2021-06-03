@@ -92,3 +92,5 @@ aux_links_new_tab: true
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-cayman
