@@ -9,5 +9,5 @@ gem install bundler:2.1.4
 bundle \_2.1.4\_ install
 
 ### Local server
-bundle exec jekyll serve
+bundle exec jekyll serve --config _config_local.yml
 
