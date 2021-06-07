@@ -5,7 +5,8 @@
 layout: home
 title: What is Odet
 permalink: /
-nav_exclude: true
+nav_order: 1
+has_children: false
 ---
 
 # Welcome to Odet!
