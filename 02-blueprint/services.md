@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: "Blueprint: The Service Catalogue"
-nav_order: 2
+nav_order: 1
 title: Services
 permalink: /blueprint/services
 ---

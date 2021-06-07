@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: "Work Bench: Service Excellence"
-nav_order: 3
+nav_order: 1
 title: Standards
 permalink: /work-bench/standards
 ---
