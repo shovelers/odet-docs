@@ -2,7 +2,7 @@
 layout: page
 title: "Work Bench: Service Excellence"
 permalink: /work-bench/
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 
